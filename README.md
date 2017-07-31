@@ -14,3 +14,11 @@ requirements:
 3. the ACCESS database must be at the same directory than the java program (and the same for the "variables.txt")
 
 4. you must have all the libraries to run it (they're in dist.zip and same for the compiled program)
+
+---------------------------------------
+
+WARNING!!!!!! -------------------------------------------------------------------------------------------------------------------------
+
+The program works correctly with linux (in build) but in windows works correctly with netbeans my recommendation is to try to open the code with netbeans or another software.
+
+---------------------------------------------------------------------------------------------------------------------------------------
