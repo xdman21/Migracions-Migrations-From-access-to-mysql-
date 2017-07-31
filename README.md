@@ -13,4 +13,4 @@ requirements:
 
 3. the ACCESS database must be at the same directory than the java program (and the same for the "variables.txt")
 
-4. you must have all the libraries to run it (they're in lib.zip and same for the compiled program)
+4. you must have all the libraries to run it (they're in dist.zip and same for the compiled program)
