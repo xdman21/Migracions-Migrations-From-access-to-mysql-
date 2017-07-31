@@ -22,4 +22,4 @@ WARNING!!!!!! ------------------------------------------------------------------
 The program works correctly with linux (in build) but in windows works correctly with netbeans my recommendation is to try to open the code with netbeans or another software.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
- 
+
